@@ -1,0 +1,9 @@
+{
+  "name": "set-a-api",
+  "version": "1.0.0",
+  "description": "Set A - Event Registration Management API (in-memory REST API)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "ISC",
+  "dependencies": { "express": "^4.19.2" }
+}
